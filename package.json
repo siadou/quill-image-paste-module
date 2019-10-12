@@ -1,0 +1,26 @@
+{
+  "name": "quill-image-paste-module",
+  "version": "0.0.1",
+  "description": "image paste for quill rich text area",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/siadou/quill-image-paste-module.git"
+  },
+  "keywords": [
+    "quill",
+    "image",
+    "paste"
+  ],
+  "author": "siadou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siadou/quill-image-paste-module/issues"
+  },
+  "homepage": "https://github.com/siadou/quill-image-paste-module#readme"
+}
