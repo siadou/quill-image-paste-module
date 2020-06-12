@@ -25,6 +25,10 @@ export class ImagePaste {
       evt.preventDefault()
     }
     this.preventDefaultFlag = false
+    setTimeout(() => {
+      this.quill.selection.scrollIntoView()
+      this.quill.focus()
+    }, 1)
   }
 
   // 从clipboardData中读取图片base64数据
